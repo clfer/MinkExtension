@@ -22,7 +22,7 @@
     ],
     "require": {
         "php": ">=7.4",
-        "behat/behat": "dev-master",
+        "behat/behat": "^3.0.5",
         "behat/mink": "^1.5",
         "symfony/config": "^4.4 || ^5.0 || ^6.0 || ^7.0"
     },
